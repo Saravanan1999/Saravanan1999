@@ -59,8 +59,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saravananhari&show_icons=true&theme=dark&icon_color=FFD700&text_color=FFD700&title_color=FFD700&bg_color=000000" alt="Saravanan's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravananhari&layout=compact&theme=dark&text_color=FFD700&title_color=FFD700&bg_color=000000" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saravanan1999&show_icons=true&theme=dark&icon_color=FFD700&text_color=FFD700&title_color=FFD700&bg_color=000000" alt="Saravanan's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan19999&layout=compact&theme=dark&text_color=FFD700&title_color=FFD700&bg_color=000000" alt="Top Languages" width="48%">
 </p>
 
 ---
