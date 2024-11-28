@@ -34,7 +34,7 @@
   - 🛠️ Built scalable and reliable **data pipelines** for integrating hotel booking systems with payment platforms.
   - 🔐 Enhanced fraud prevention systems by implementing advanced checks in transaction workflows.
 
-  ### **Data Science Intern**  
+  ### **Software Engineer Intern**  
   **MakeMyTrip** *(January 2022 – May 2022)*  
   - 📈 Improved the **accuracy of OCR-based invoice systems** from **57% to 83.33%** using Python libraries like **scikit-learn** and **TensorFlow**.
   - 🐞 Reduced critical bugs by **32%** through cross-functional initiatives.
